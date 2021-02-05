@@ -4,7 +4,7 @@ Python API for Sinhala Sentiment Lexicon with 14000+ sentiment tagged Sinhala wo
 ### Setup environment
 1. Make sure you have Python >= 3.6 by `python --version`
 2. Additionally, you’ll need to make sure you have pip available by running `pip --version`
-3. To install pip see [install pip](https://pip.pypa.io/en/stable/installing/)
+3. To install pip see [installing pip](https://pip.pypa.io/en/stable/installing/)
 4. Install helasentilex package using the command `pip install helasentilex`
 
 ### Getting started
