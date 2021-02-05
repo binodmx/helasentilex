@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="helasentilex",
-    version="0.1.0",
+    version="0.1.1",
     author="Binod Karunanayake",
     author_email="binod.16@cse.mrt.ac.lk",
-    description="API for Sinhala Sentiment Lexicon",
+    description="Python API for Sinhala Sentiment Lexicon",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/BrainstormersLK/helasentilex",
+    url="https://github.com/binodmx/helasentilex",
     packages=setuptools.find_packages(),
     include_package_data=True,
     classifiers=[
