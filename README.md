@@ -57,4 +57,4 @@ To add new words along with their sentiment scores
 3. Sort words in ascending order
 4. Save changes to your forked repo and make a pull request
 
-_Love helasentilex? Give our repo a **[star](https://github.com/BrainstormersLK/helasentilex)**!_
+_Love helasentilex? Give our repo a **[star](https://github.com/binodmx/helasentilex)**!_
