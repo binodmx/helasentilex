@@ -1,6 +1,8 @@
 # HelaSentiLex (Hela Sentiment Lexicon)
 Python API for Sinhala Sentiment Lexicon with 14000+ sentiment tagged Sinhala words
 
+![PyPI - Downloads](https://img.shields.io/pypi/dm/helasentilex)
+
 ### Setup environment
 1. Make sure you have Python >= 3.6 by `python --version`
 2. Additionally, you’ll need to make sure you have pip available by running `pip --version`
